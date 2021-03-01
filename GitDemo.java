@@ -42,12 +42,10 @@ public class GitDemo {
      *  the function will return 4321
      *****/
     public double reverseNumber(int num){
- branch-b
-          double factorialNumber = 0;
 
+        double factorialNumber = 0;
         double newNumber = 1;
         reverseNum=newNumber;
- main
         
         while( num != 0 ) {
             double temp = num % 10;
